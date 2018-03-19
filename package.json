@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opentok/cordova-plugin-opentok.git"
+    "url": "git+https://github.com/henritoivar/cordova-plugin-opentok.git"
   }
 }
